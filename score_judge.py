@@ -8,6 +8,7 @@
 40点未満 => F
 '''
 
+
 score = int(input('点数は？＞'))
 
 if 80 <=  score < 100:
