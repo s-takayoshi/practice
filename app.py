@@ -7,6 +7,7 @@
 
 '''
 
+
 amount = int(input('合計金額を教えてね(円):'))
 number_of_person = int(input('人数を教えてね(人):'))
 
